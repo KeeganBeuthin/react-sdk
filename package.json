@@ -2,8 +2,8 @@
   "name": "react-sdk",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/index",
-  "types": "dist/index",
+  "main": "src/index",
+  "types": "src/index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src -d dist"
