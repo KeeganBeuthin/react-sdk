@@ -11,5 +11,4 @@ const getTestData = async () => {
     throw error;
   }
 };
-
-export default getTestData;
+module.exports = getTestData
